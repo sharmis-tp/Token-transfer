@@ -1,4 +1,4 @@
-# Casino-bank
+# Token-transfer
 
 This project is a smart contract that allow user deposit and withdraw token from pda in solana network. Build with anchor framework.
 
